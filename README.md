@@ -10,7 +10,7 @@ Straight test complete ========== Time: 79704=========== Iters: 16777216
 
 How to use:
 
-call LooperWrapped( [loop-lower-bound], [loop-upper-bound], [dimension-of-loop] , [callback] );
+call LooperWrapped( loopLowerBound, loopUpperBound, nestSizeOfLoop , callback );
 
 That's it!
 
